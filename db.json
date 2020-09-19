@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 17
+    },
+    {
+      "name": "pups",
+      "image": "https://i2.wp.com/perfect-puppy.com/wp-content/uploads/2018/12/1541278615491.jpg",
+      "likes": 3,
+      "id": 9
     }
   ]
 }
